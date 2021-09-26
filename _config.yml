@@ -1,7 +1,7 @@
 # Site
-name: "VNCrypto"
-title: "VNCrypto"
-description: "We passionate about blockchain and crypto currency."
+name: "Cường PO"
+title: "Cường PO"
+description: "Le"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://cuongpo.github.io
@@ -16,7 +16,7 @@ email: vucuong.marketing@gmail.com
 authors:
   sal:
     name: Cuong Pham 
-    display_name: CuongPM
+    display_name: CuongPO
     avatar: 'assets/images/avatar-sal.png'
     email: vucuong.marketing@gmail.com
     web: https://cuongsocial.com
