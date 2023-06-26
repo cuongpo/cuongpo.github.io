@@ -42,7 +42,9 @@ Explain:
 * ![image.png](https://images.viblo.asia/1a687d6b-0abb-4088-9fb3-75928c2a14d0.png)
 * Để load model chúng ta thêm <a-gltf-model src="path/to/model.gltf"></a-gltf-model>
 * Nhưng thông thường để quản lý các model dễ hơn thì mình sẽ cho đường dẫn các model vào giữa cặp <a-assets></a-assets> sau đó gọi ra để sử  dụng 
+
 Example:
+
 ```
 <html>
   <head>
@@ -68,6 +70,7 @@ Bây giờ nó sẽ trông như thế này
   <a-box color="red" rotation="0 45 45" scale="2 2 2"></a-box>
 </a-scene>
 ```
+
 * Để xoay: rotation ="x y z"
 * Để scale: scale= "x y z"
 
@@ -91,6 +94,7 @@ Bây giờ nó sẽ trông như thế này
 ### Chỉnh camera để góc nhìn ngang tầm mắt người
 * Trong trường hợp mình không config camera thì aframe sẽ tự lấy config a-camera mặc định của nó - để config thì thêm cặp <a-camera></a-camera> là được
 * Code bây giờ sẽ như sau
+
 ```
 <html>
   <head>
