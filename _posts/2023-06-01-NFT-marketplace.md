@@ -1,10 +1,10 @@
 ---
-title: Tự tạo Metaverse bằng A-frame và Three.js
+title: How to Write an NFT Marketplace Smart Contract in Klaytn
 author: Henry Pham
 date: 2023-06-01 11:33:00 +0800
 categories: [Coding]
 tags: [Smart Contract,Side Project]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
