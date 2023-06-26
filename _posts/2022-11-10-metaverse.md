@@ -20,7 +20,7 @@ mermaid: true
 
 ### Tạo file 
 Đầu tiên tạo một file Html
-```html
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
@@ -43,7 +43,7 @@ Explain:
 * Để load model chúng ta thêm <a-gltf-model src="path/to/model.gltf"></a-gltf-model>
 * Nhưng thông thường để quản lý các model dễ hơn thì mình sẽ cho đường dẫn các model vào giữa cặp <a-assets></a-assets> sau đó gọi ra để sử  dụng 
 Example:
-```html
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
@@ -63,7 +63,7 @@ Bây giờ nó sẽ trông như thế này
 ![image.png](https://images.viblo.asia/e357815e-2a27-4bb3-8877-e8b66eeceb59.png)
 ### Transform model
 
-```sql
+```
 <a-scene>
   <a-box color="red" rotation="0 45 45" scale="2 2 2"></a-box>
 </a-scene>
@@ -74,7 +74,7 @@ Bây giờ nó sẽ trông như thế này
 ### Thêm background cảnh môi trường xung quanh
 * Để thêm background các bạn thêm cặp a-sky - param của nó thì có thể là màu sắc (color="#HEX") hoặc ảnh, video,...
 
-```sql
+```
 <a-scene>
   <a-sky src="./assets/cloud.jpg"></a-sky>
 </a-scene>
@@ -84,14 +84,14 @@ Bây giờ nó sẽ trông như thế này
 
 ### Thêm mặt đất
 * Để thêm mặt đất dùng cặp a-plane
-```sql
+```
 <a-plane rotation="-90 0 0"></a-plane>
 ```
 
 ### Chỉnh camera để góc nhìn ngang tầm mắt người
 * Trong trường hợp mình không config camera thì aframe sẽ tự lấy config a-camera mặc định của nó - để config thì thêm cặp <a-camera></a-camera> là được
 * Code bây giờ sẽ như sau
-```html
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
