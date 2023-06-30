@@ -1,7 +1,7 @@
 ---
 title: Sending Payment Transactions using Algorand JavaScript SDK
 author: Henry Pham
-date: 2023-06-24 11:33:00 +0800
+date: 2023-06-30 11:33:00 +0800
 categories: [Coding]
 tags: [Smart Contract,Algorand, Algokit]
 pin: false
