@@ -1,5 +1,5 @@
 ---
-title: Creating an Account and Sending Payment Transactions using Algorand JavaScript SDK
+title: Alogrand Bootcamp Ep 1 | Creating an Account and Sending Payment Transactions using Algorand JavaScript SDK
 author: Henry Pham
 date: 2023-06-24 11:33:00 +0800
 categories: [Coding]

@@ -1,5 +1,5 @@
 ---
-title: Sending Payment Transactions using Algorand JavaScript SDK
+title: Alogrand Bootcamp Ep 2 | Sending Payment Transactions using Algorand JavaScript SDK
 author: Henry Pham
 date: 2023-06-30 11:33:00 +0800
 categories: [Coding]
@@ -8,8 +8,6 @@ pin: false
 math: true
 mermaid: true
 ---
-## Introduction
-
 ## Introduction
 
 In a [previous article](https://cuongpo.github.io/posts/algorand-bootcamp-1/), we learned how to create an account in Algorand and obtain its associated information. In this article, we will delve into sending payment transactions using the Algorand JavaScript SDK. Sending transactions requires gathering essential information called "Suggested params" and signing the transaction before it can be sent to the network. We will explore the necessary steps to accomplish this using the Algorand JavaScript SDK.
