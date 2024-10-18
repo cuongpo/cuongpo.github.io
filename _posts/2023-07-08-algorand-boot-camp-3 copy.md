@@ -1,9 +1,9 @@
 ---
-title: Sui Bootcamp 1 | What is Sui
+title: Alogrand Bootcamp Ep 3 | Create ASA, Send Asset Transfer
 author: Henry Pham
-date: 2024-10-18 11:33:00 +0800
+date: 2023-07-08 11:33:00 +0800
 categories: [Coding]
-tags: [Smart ContractC,Sui,Move]
+tags: [Smart Contract,Algorand, Algokit]
 pin: false
 math: true
 mermaid: true
