@@ -20,10 +20,10 @@ timezone:
 
 title: Henry Pham # the main title
 
-tagline: My Learning Journey to Become a Blockchain Product Manager # it will display as the sub-title
+tagline: My Blockchain Learning Journey # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My Learning Journey to Become a Blockchain Product Manager
+   My Blockchain Learning Journey
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
